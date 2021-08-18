@@ -1,5 +1,5 @@
 # Color-Identification-in-Images
-# About
+# About:
 Implement an image color detector which identifies all the colors in an image or video.
 Colour identification is the process of detecting the name of any color. This project can automatically get the name of the color by clicking on images.
 # Requirements:
